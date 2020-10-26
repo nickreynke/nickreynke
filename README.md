@@ -23,7 +23,7 @@
 <a href="https://fb.com/nickreynke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nickreynke" height="30" width="40" /></a>
 <a href="https://instagram.com/nickreynke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nickreynke" height="30" width="40" /></a>
 <a href="https://medium.com/@nickreynke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nickreynke" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@nickreynke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://medium.com/feed/@nickreynke" height="30" width="40" /></a>
+<a href="https://medium.com/feed/@nickreynke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://medium.com/feed/@nickreynke" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
