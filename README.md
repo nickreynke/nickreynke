@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects that have a positive impact on the world.
 - 😄 Pronouns: hi/him, any
 
-<br>
+<hr/>
 
 <div style="text-align: center;">
     <h3>Certifications</h3>
@@ -21,3 +21,17 @@
         <img src="./images/gcp_associate_cloud_engineer_badge.png" alt="GCP Associate Cloud Engineer" width="180px" />
     </a>
 </div>
+
+<hr/>
+
+### More about me...
+
+```typescript
+const nick = {
+    pronouns: ["he/him", "any"],
+    code: ["TypeScript", "Python"],
+    tools: ["Kubernetes", "Docker", "Terraform"],
+    clouds: ["AWS", "GCP"],
+    architecture: ["Serverless", "Microservices", "Event-driven", "Domain-driven"],
+};
+```
