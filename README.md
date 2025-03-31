@@ -25,8 +25,8 @@
 ```typescript
 const nick = {
     pronouns: ["he/him", "any"],
-    code: ["TypeScript", "Python"],
-    tools: ["Kubernetes", "Docker", "Terraform"],
+    code: ["TypeScript", "Python", "Dart"],
+    tools: ["Kubernetes", "Docker", "Terraform", "NestJS", "Flutter"],
     clouds: ["AWS", "GCP"],
     architecture: ["Serverless", "Microservices", "Event-driven", "Domain-driven"],
 };
