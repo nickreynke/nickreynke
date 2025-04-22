@@ -10,7 +10,7 @@
 
 <h3 align="center">Certifications</h3>
 
-<p align="center">
+<p align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center; text-align: center;">
     <a href="https://www.credly.com/badges/23262c90-5cc3-4c27-bbe3-d85f853f9e7d/public_url" target="_blank">
         <img src="./images/ckad_badge.png" alt="CKAD - Certified Kubernetes Application Developer" width="140px" />
     </a>
