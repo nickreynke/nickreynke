@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Nick 👋</h2>
 
-- 😄 My pronouns are hi/him or any
+- 😄 My pronouns are "he/him" or "any".
 - 📖 Currently reading about local-first software.
 - 🔭 Working on an app against procrastination. (https://eatfrogs.com)
 - 🌱 Learning about AWS, Kubernetes, Security and all things Cloud and DevOps.
