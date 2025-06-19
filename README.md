@@ -52,4 +52,7 @@ const nick = {
 
 <p align="center">
   Feel free to connect with me on <a href="https://www.linkedin.com/in/nicklasreincke/" target="_blank">LinkedIn</a> or contact me any other way :)
+  <br />
+  <br />
+  <a href='https://ko-fi.com/M4M5FB19F' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
