@@ -16,6 +16,11 @@
 
 <hr/>
 
+> _"If more of us valued food and cheer and song above hoarded gold, it would be a merrier world."
+> ― **J.R.R. Tolkien**_
+
+<hr/>
+
 - 😄 My pronouns are "he/him" or any other.
 - 🔭 Working on an app against procrastination. (https://eatfrogs.com)
 - 🌱 Learning about Google Cloud (GCP), Kubernetes, Security and all things Cloud and DevOps.
