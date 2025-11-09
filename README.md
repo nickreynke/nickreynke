@@ -16,7 +16,7 @@
 
 <hr/>
 
-- 😄 My pronouns are "he/him" or "any".
+- 😄 My pronouns are "he/him" or any other.
 - 🔭 Working on an app against procrastination. (https://eatfrogs.com)
 - 🌱 Learning about Google Cloud (GCP), Kubernetes, Security and all things Cloud and DevOps.
 - 👯 Looking to collaborate on projects that have a positive impact on the world.
